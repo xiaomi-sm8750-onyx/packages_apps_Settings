@@ -239,4 +239,8 @@
     <!-- Per-app GPU composition -->
     <string name="use_gpu_for_screen_composition_title">Use GPU for screen composition</string>
     <string name="use_gpu_for_screen_composition_summary">Select apps that should disable HW overlays while in use</string>
+
+    <!-- backup -->
+    <string name="local_app_backup_restore_title">Local app backup and restore</string>
+    <string name="local_app_backup_restore_summary">Save APKs and app data as normal tar archives in internal storage</string>
 </resources>
